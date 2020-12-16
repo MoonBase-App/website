@@ -9,12 +9,12 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #444444;
 }
 
 a {
-  color: #49b5e7;
+  color: #444444;
 }
 
 a:hover {
@@ -23,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 400;
   letter-spacing: 1px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 #header .logo a {
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #0f394c;
   transition: 0.3s;
   font-size: 16px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
   letter-spacing: 1;
   font-weight: 500;
 }
@@ -332,7 +332,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
